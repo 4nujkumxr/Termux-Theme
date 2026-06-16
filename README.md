@@ -26,11 +26,11 @@ Cool Evil Eye Banner Script for Termux :)
 
 ## Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instgram.com/pvt.anuj____/)  
+  [X](https://x.com/4nujkumxr)
 
 ## Contect Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](heyy.anujkumarr@gmail.com)
+[Gmail](mailto:hello.4nuj@outlook.in)
 
 ![Made In](https://img.shields.io/badge/Made%20In-India%20%E2%9D%A4-green?labelColor=orange&style=flat)
 ### ❤ From Team WhiteSoul EvLF
